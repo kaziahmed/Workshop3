@@ -37,3 +37,12 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+
+.fb-trending .media {
+  margin-top: 5px;
+}
+
+.fb-trending {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 5px;
+}
